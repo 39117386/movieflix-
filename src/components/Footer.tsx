@@ -234,7 +234,7 @@ const Footer = () => {
             <p className="text-sm text-muted-foreground text-center md:text-left flex items-center gap-1.5">
               © {new Date().getFullYear()} MOVIEFLIX Movies. Made with
               <Heart className="h-3.5 w-3.5 text-red-500 fill-red-500 animate-pulse" />
-              by developers
+              by Santiago Elordieta para alicia 
             </p>
             <div className="flex items-center gap-6">
               <Link
